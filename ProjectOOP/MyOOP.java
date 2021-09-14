@@ -1,5 +1,6 @@
 
 public class MyOOP {
+	
 	public static void main(String[] args) {
 		delimiter = "----";
 		printA();
