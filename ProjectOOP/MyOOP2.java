@@ -11,5 +11,14 @@ public class MyOOP2 {
 		Print.A();
 		Print.B();
 		Print.B();
+		
+		Print.delimiter = "----";
+		Print.A();
+		Print.delimiter = "****";
+		Print.A();
+		Print.delimiter = "----";
+		Print.A();
+		Print.delimiter = "****";
+		Print.A();
 	}
 }
